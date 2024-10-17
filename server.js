@@ -63,6 +63,7 @@ const swaggerSpec = swaggerJsdoc(options);
 // Use Swagger UI
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerSpec));
 
+// get
 app.get("/", (req, res) => {
     res.send(
         "<center><h1>Habit Tracker Application</h1><br>Get Habit-Tracker Api <a href=https://github.com/yashika277/habit_tracker_application.git target=_blank>Repository :Habit Tracker Application</a></center>"

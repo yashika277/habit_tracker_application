@@ -3,7 +3,7 @@
   ## Expense Swagger UI
    
    ![Expense Dashboard](./image/image1.png)
-   <br>
+   <br><br/>
    ![Expense Dashboard](./image/image2.png)
 
 
@@ -43,4 +43,4 @@ A web application that helps users track their habits, view their progress, and 
 1. Clone the repository:
    git clone https://github.com/yourusername/habit-tracker-app.git
 
-2. Live URL= https://habit-tracker-application-id25.onrender.com/
+2. Live URL= 
